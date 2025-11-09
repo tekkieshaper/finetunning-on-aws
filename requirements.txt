@@ -1,0 +1,6 @@
+transformers
+datasets
+accelerate
+sagemaker 
+boto3
+pandas
